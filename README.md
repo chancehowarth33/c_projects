@@ -1,6 +1,6 @@
-# C/C++ Projects
+# C Projects
 
-This is a repositoy of my C and C++ projects
+This is a repositoy of my C  projects
 Feel free to reach out with any questions. Thanks for visiting!
 
 Email : howarthchance@gmail.com
